@@ -1,0 +1,1 @@
+{"tests": [{"id": 1, "title": "Login test", "value": "passed"}, {"id": 2, "title": "Payment flow", "value": "failed", "steps": [{"id": 3, "title": "Card validation", "value": "skipped"}]}]}
